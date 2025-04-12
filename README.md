@@ -20,4 +20,4 @@ Key scripts to check:
 - `scripts/generateReport.py`
 
 # Available data
-Included here are the final csv files used in the larger/key figures of the paper. Additional data (in a raw format) is available upon request.
+Included here are the final csv files used in the larger/key figures of the paper. Additional data (in a raw format) is available upon request due to the large nature of the data underneath (which would drastically bloat the repository)
