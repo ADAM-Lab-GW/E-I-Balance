@@ -1,4 +1,4 @@
-# E-I-Balance
+# E-I-SNN
 Codebase for the work Biologically-Informed Excitatory and Inhibitory Balance for Robust Spiking Neural Network Training
 
 # Simulation workflow
